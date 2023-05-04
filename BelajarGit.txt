@@ -2,3 +2,5 @@ Scedule
 - Membuat project sebanyak-banyaknya.
 - Membuat website pribadi
 - Membuat Tugas IMK
+Kedepannya....
+- bisa membuat web untuk desa.
